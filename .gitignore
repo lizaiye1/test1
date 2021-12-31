@@ -1,0 +1,6 @@
+# Project exclude paths
+/hbase/target/
+/hive/target/
+/out/
+/target/
+/zookeeper/target/
